@@ -48,7 +48,7 @@ The "Today biggest hits" and "Made For You" playlist has been created using ```H
 ### PLAYLIST DETAIL  
 ![image](https://github.com/imrismaa/GDSC_SpotifyClone/blob/master/playlist_detail.png)
 
-This is the last page of the Spotify app that I clone. There are only three example songs which have a favorite button, and it is clickable. 
+This is the last page of the Spotify app that I clone. There are only three example songs which has a favorite button, and it is clickable. 
 ```kotlin
 var isLoved = false
   btnLike.setOnClickListener {
