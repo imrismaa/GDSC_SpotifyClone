@@ -18,7 +18,7 @@ class LoginActivity : AppCompatActivity() {
 
         with(binding){
             btnBackToSplash.setOnClickListener {
-                val intentToSplashActivity = Intent(this@LoginActivity, MainActivity::class.java)
+                val intentToSplashActivity = Intent(this@LoginActivity, SplashActivity::class.java)
                 startActivity(intentToSplashActivity)
             }
 
