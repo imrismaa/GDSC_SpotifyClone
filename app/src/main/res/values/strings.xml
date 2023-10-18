@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_splash">Millions of songs, \nFree on Spotify.</string>
+    <string name="signup_free">Sign up free</string>
+    <string name="c_phone_number">Continue with phone number</string>
+    <string name="c_google">Continue with Google</string>
+    <string name="c_facebook">Continue with Facebook</string>
+    <string name="login">Log in</string>
+    <string name="back">back</string>
+    <string name="email_or_usn">Email or username</string>
+    <string name="password">Password</string>
+    <string name="login_wo_pw">Log in without password</string>
+    <string name="music">Music</string>
+    <string name="pns">Podcasts &amp; Shows</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="library">Your Library</string>
+    <string name="premium">Premium</string>
+    <string name="rewards">Rewards</string>
+    <string name="all">All</string>
+    <string name="puncak_klasemen">Arsy Widianto, Nadin Amizah, Tiara Andini, Hindia, Mahalini</string>
+    <string name="tth">Taylor Swift, Billie Eilish, Selena Gomez, Drake, Bad Bunny</string>
+    <string name="hit">Ariana Grande, BLACKPINK, Taylor Swift, Selena Gomez, IVE</string>
+    <string name="hothits">Taylor Swift, Anne-Marie, Billie Eilish, Arsy Widianto, The Weekend</string>
+    <string name="poprising">Sia, The Chainsmokers, Selena Gomez, BLACKPINK, Billie Eilish</string>
+    <string name="dm1">JKT48, Geisha, Reality Club, Jaz, Hivi!, Glenn Fredly</string>
+    <string name="dm2">BLACKPINK, aespsa, TWICE, JEON SOMI, NewJeans, LE SSERAFIM, SEVENTEEN</string>
+    <string name="dm3">TAEYEON, AKMU, JENNIE, ONEUS, NCT-U, Stray Kids, HWASA</string>
+    <string name="dm4">TOMMOROW X TOGETHER, NCT DREAM, BTS, ENHYPEN, Red Velvet</string>
+    <string name="dm5">Lana Del Rey, Bruno Mars, Camila Cabello, David Guetta</string>
+</resources>
