@@ -1,6 +1,6 @@
 # GDSC_SpotifyClone
 
-This is a clone of Spotify app, but only splash screen, login, home, and page when you clicked on the playlist.
+This is a clone of Spotify app, but only splash screen, login, home, and page when you clicked on the playlist. Just clone this repository on your Android Studio.
 ### SPLASH SCREEN
 ![image](https://github.com/imrismaa/GDSC_SpotifyClone/blob/master/splash_screen.png)
 
